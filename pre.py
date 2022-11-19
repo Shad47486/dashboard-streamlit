@@ -7,3 +7,5 @@ pip3 install streamlit
 nano ~/.bashrc 
 # Going to the bash file and adding 'export PATH="$HOME/.local/bin:$path"' and save/exit
 # Restart terminal 'source~/.bachrc` then try to `streamlit` in the terminal
+streamlit run (pythonfile)
+#This will start the python folder
